@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97baedc8-bd0d-4c4d-b920-112c82d89110" name="Changes" comment="Three elements by Tag name">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eGopWCsrKqZjDHJQVqKM433xwd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.FindElementsTests.executor": "Run",
+    "TestNG.FindElementsTests.findElementByCssSelector.executor": "Run",
+    "TestNG.FindElementsTests.findElementByLocators.executor": "Run",
+    "TestNG.FindElementsTests.findElementByTagName.executor": "Run",
+    "TestNG.FirstSeleniumTest.executor": "Run",
+    "TestNG.FirstSeleniumTest.openGoogleTest.executor": "Run",
+    "TestNG.HW_02.executor": "Run",
+    "TestNG.HW_02.findThreeElementsByTagName.executor": "Run",
+    "TestNG.HW_03_uniqueElements.executor": "Run",
+    "TestNG.HW_03_uniqueElements.uniqueElement.executor": "Run",
+    "TestNG.UniqueElements_cssSelector.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/olesiavoprykova/QA/QA_FirstSeleniumProject/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.UniqueElements_cssSelector">
+    <configuration name="FindElementsTests.findElementByCssSelector" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ait.qa34.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ait.qa34" />
+      <option name="MAIN_CLASS_NAME" value="com.ait.qa34.FindElementsTests" />
+      <option name="METHOD_NAME" value="findElementByCssSelector" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindElementsTests.findElementByLocators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ait.qa34.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ait.qa34" />
+      <option name="MAIN_CLASS_NAME" value="com.ait.qa34.FindElementsTests" />
+      <option name="METHOD_NAME" value="findElementByLocators" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW_03_uniqueElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_03" />
+      <option name="MAIN_CLASS_NAME" value="hw_03.HW_03_uniqueElements" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW_03_uniqueElements.uniqueElement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_03" />
+      <option name="MAIN_CLASS_NAME" value="hw_03.HW_03_uniqueElements" />
+      <option name="METHOD_NAME" value="uniqueElement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueElements_cssSelector" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_03" />
+      <option name="MAIN_CLASS_NAME" value="hw_03.UniqueElements_cssSelector" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UniqueElements_cssSelector" />
+        <item itemvalue="TestNG.HW_03_uniqueElements" />
+        <item itemvalue="TestNG.HW_03_uniqueElements.uniqueElement" />
+        <item itemvalue="TestNG.FindElementsTests.findElementByCssSelector" />
+        <item itemvalue="TestNG.FindElementsTests.findElementByLocators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-3183f394aec4-26afc3bf" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97baedc8-bd0d-4c4d-b920-112c82d89110" name="Changes" comment="" />
+      <created>1711540462507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711540462507</updated>
+      <workItem from="1711540463610" duration="1406000" />
+      <workItem from="1711617407928" duration="9354000" />
+      <workItem from="1711636293690" duration="4330000" />
+      <workItem from="1712053001910" duration="13432000" />
+    </task>
+    <task id="LOCAL-00001" summary="Three elements by Tag name">
+      <option name="closed" value="true" />
+      <created>1711642582524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711642582524</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Three elements by Tag name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Three elements by Tag name" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97baedc8-bd0d-4c4d-b920-112c82d89110" name="Changes" comment="Three elements by Tag name">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw_03/UniqueElements_cssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_03/UniqueElements_cssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw_02/HW_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_02_findElementByTagName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw_03/UniqueElements_cssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_03_UniqueElements_cssSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +90,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HW_03_UniqueElements_cssSelector" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_03" />
+      <option name="MAIN_CLASS_NAME" value="hw.HW_03_UniqueElements_cssSelector" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HW_03_uniqueElements" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_03.*" />
+          <option name="PATTERN" value="hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,7 +128,7 @@
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_03.*" />
+          <option name="PATTERN" value="hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,23 +136,6 @@
       <option name="MAIN_CLASS_NAME" value="hw_03.HW_03_uniqueElements" />
       <option name="METHOD_NAME" value="uniqueElement" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniqueElements_cssSelector" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_FirstSeleniumProject.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hw_03" />
-      <option name="MAIN_CLASS_NAME" value="hw_03.UniqueElements_cssSelector" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -163,7 +162,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.UniqueElements_cssSelector" />
-        <item itemvalue="TestNG.UniqueElements_cssSelector" />
+        <item itemvalue="TestNG.HW_03_UniqueElements_cssSelector" />
         <item itemvalue="TestNG.HW_03_uniqueElements" />
         <item itemvalue="TestNG.HW_03_uniqueElements.uniqueElement" />
         <item itemvalue="TestNG.FindElementsTests.findElementByCssSelector" />
@@ -189,7 +188,7 @@
       <workItem from="1711540463610" duration="1406000" />
       <workItem from="1711617407928" duration="9354000" />
       <workItem from="1711636293690" duration="4330000" />
-      <workItem from="1712053001910" duration="15032000" />
+      <workItem from="1712053001910" duration="16161000" />
     </task>
     <task id="LOCAL-00001" summary="Three elements by Tag name">
       <option name="closed" value="true" />
@@ -213,7 +212,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

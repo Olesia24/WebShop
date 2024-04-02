@@ -1,4 +1,4 @@
-package hw_02;
+package hw;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class HW_02 {
+public class HW_02_findElementByTagName {
     WebDriver driver;
     @BeforeMethod
     public void setUp(){

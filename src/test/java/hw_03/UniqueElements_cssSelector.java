@@ -94,10 +94,8 @@ public class UniqueElements_cssSelector {
         driver.findElement(By.cssSelector(".footer-disclaimer"));
         driver.findElement(By.cssSelector(".footer-store-theme"));
         driver.findElement(By.cssSelector(".ui-autocomplete"));
-
     }
     @AfterMethod
     public void tearDown(){ driver.quit();}
-
 }
 

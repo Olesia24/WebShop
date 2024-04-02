@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97baedc8-bd0d-4c4d-b920-112c82d89110" name="Changes" comment="Three elements by Tag name">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw_03/UniqueElements_cssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_03/UniqueElements_cssSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2eGopWCsrKqZjDHJQVqKM433xwd" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -56,6 +55,7 @@
     "TestNG.HW_02.findThreeElementsByTagName.executor": "Run",
     "TestNG.HW_03_uniqueElements.executor": "Run",
     "TestNG.HW_03_uniqueElements.uniqueElement.executor": "Run",
+    "TestNG.Unique.executor": "Run",
     "TestNG.UniqueElements_cssSelector.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -72,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.UniqueElements_cssSelector">
+  <component name="RunManager">
     <configuration name="FindElementsTests.findElementByCssSelector" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
@@ -84,24 +84,6 @@
       <option name="PACKAGE_NAME" value="com.ait.qa34" />
       <option name="MAIN_CLASS_NAME" value="com.ait.qa34.FindElementsTests" />
       <option name="METHOD_NAME" value="findElementByCssSelector" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindElementsTests.findElementByLocators" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_FirstSeleniumProject.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ait.qa34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ait.qa34" />
-      <option name="MAIN_CLASS_NAME" value="com.ait.qa34.FindElementsTests" />
-      <option name="METHOD_NAME" value="findElementByLocators" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -161,13 +143,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueElements_cssSelector" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="hw_03.UniqueElements_cssSelector" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.UniqueElements_cssSelector" />
         <item itemvalue="TestNG.UniqueElements_cssSelector" />
         <item itemvalue="TestNG.HW_03_uniqueElements" />
         <item itemvalue="TestNG.HW_03_uniqueElements.uniqueElement" />
         <item itemvalue="TestNG.FindElementsTests.findElementByCssSelector" />
-        <item itemvalue="TestNG.FindElementsTests.findElementByLocators" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,7 @@
       <workItem from="1711540463610" duration="1406000" />
       <workItem from="1711617407928" duration="9354000" />
       <workItem from="1711636293690" duration="4330000" />
-      <workItem from="1712053001910" duration="13432000" />
+      <workItem from="1712053001910" duration="15032000" />
     </task>
     <task id="LOCAL-00001" summary="Three elements by Tag name">
       <option name="closed" value="true" />

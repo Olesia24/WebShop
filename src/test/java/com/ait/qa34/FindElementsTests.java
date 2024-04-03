@@ -65,11 +65,29 @@ public class FindElementsTests {
         driver.findElement(By.cssSelector("[href^='/let']"));
         //end on -> $
         driver.findElement(By.cssSelector("[href$='work']"));
+    }
+    //xPath//*[@attr0='value']
+    @Test
+    public void elementByXpath(){
+        driver.findElement(By.xpath("//h1"));
+        //id -> //tag[
+        driver.findElement(By.xpath("//*[@id='city']"));
+        //class name -> //tag[@class='className']
+        driver.findElement(By.xpath("//*[@class='input-container']"));
+        //contains -> //*[contains(@attr,'...']
+        driver.findElement(By.xpath("//*[contains(.,'car')]"));
+        //start -> //*[starts-with(@attr,'...')]
+        driver.findElement(By.xpath("//*[starts-with(@href,'/let')]"));
+        //text
+        driver.findElement(By.xpath("//span[text()=' Never mistaken for anything else ']"));//точное совпадение
+        driver.findElement(By.xpath("//span[.=' Never mistaken for anything else ']"));//точное совпадение
+        driver.findElement(By.xpath("//span[contains(text(),'mistake')]"));
+        driver.findElement(By.xpath("//span[contains(.,'mistake')]"));//частичное совпадение
+        // //input[@id='username']
+        // //div/a - child
+        // //div//a - any level child - css = div a
 
     }
-    //xPath
-
-
 
     @AfterMethod
     public void tearDown(){

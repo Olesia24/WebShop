@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97baedc8-bd0d-4c4d-b920-112c82d89110" name="Changes" comment="Three elements by Tag name">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ait/qa34/FindElementsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ait/qa34/FindElementsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_2024,_18_29_[Changes]/shelved.patch" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     "TestNG.HW_04_UniqueElements_xpath.findElementByXpath.executor": "Run",
     "TestNG.Unique.executor": "Run",
     "TestNG.UniqueElements_cssSelector.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/olesiavoprykova/QA/QA_FirstSeleniumProject",
     "node.js.detected.package.eslint": "true",
@@ -198,7 +196,7 @@
       <workItem from="1712053001910" duration="17141000" />
       <workItem from="1712072309461" duration="1387000" />
       <workItem from="1712134275409" duration="4284000" />
-      <workItem from="1712143720436" duration="8655000" />
+      <workItem from="1712143720436" duration="10817000" />
     </task>
     <task id="LOCAL-00001" summary="Three elements by Tag name">
       <option name="closed" value="true" />
@@ -228,7 +226,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>

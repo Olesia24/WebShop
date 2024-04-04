@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class HW_02_findElementByTagName {
+public class FindElementByTagName {
     WebDriver driver;
     @BeforeMethod
     public void setUp(){

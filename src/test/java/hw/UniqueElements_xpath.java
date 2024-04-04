@@ -7,7 +7,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class HW_04_UniqueElements_xpath {
+public class UniqueElements_xpath {
     WebDriver driver;
     @BeforeMethod
     public void setUp(){

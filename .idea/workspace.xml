@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="97baedc8-bd0d-4c4d-b920-112c82d89110" name="Changes" comment="Three elements by Tag name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/CreateAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/CreateAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/UniqueElements_cssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/UniqueElements_cssSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AddItemToCart.addItemToCart.executor": "Run",
+    "TestNG.AddItemToCart.executor": "Run",
     "TestNG.CreateAccountTest.createNewAccountPositiveTest.executor": "Run",
+    "TestNG.CreateAccountTest.executor": "Run",
+    "TestNG.DeleteItemFromCart.deletePositiveTests.executor": "Run",
+    "TestNG.DeleteItemFromCart.executor": "Run",
     "TestNG.FindElementsTests.elementByXpath.executor": "Run",
     "TestNG.FindElementsTests.executor": "Run",
     "TestNG.FindElementsTests.findElementByCssSelector.executor": "Run",
@@ -59,6 +67,7 @@
     "TestNG.HW_03_uniqueElements.uniqueElement.executor": "Run",
     "TestNG.HW_04_UniqueElements_xpath.executor": "Run",
     "TestNG.HW_04_UniqueElements_xpath.findElementByXpath.executor": "Run",
+    "TestNG.TableTests.tableCssTest.executor": "Run",
     "TestNG.Unique.executor": "Run",
     "TestNG.UniqueElements_cssSelector.executor": "Run",
     "git-widget-placeholder": "main",
@@ -77,8 +86,43 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.CreateAccountTest.createNewAccountPositiveTest">
-    <configuration name="CreateAccountTest.createNewAccountPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DeleteItemFromCart">
+    <configuration name="AddItemToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw" />
+      <option name="MAIN_CLASS_NAME" value="hw.AddItemToCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddItemToCart.addItemToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw" />
+      <option name="MAIN_CLASS_NAME" value="hw.AddItemToCart" />
+      <option name="METHOD_NAME" value="addItemToCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateAccountTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
@@ -88,24 +132,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="hw" />
       <option name="MAIN_CLASS_NAME" value="hw.CreateAccountTest" />
-      <option name="METHOD_NAME" value="createNewAccountPositiveTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW_03_UniqueElements_cssSelector" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_FirstSeleniumProject.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hw_03" />
-      <option name="MAIN_CLASS_NAME" value="hw.HW_03_UniqueElements_cssSelector" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -113,7 +139,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_03_UniqueElements_cssSelector.uniqueElement" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeleteItemFromCart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
@@ -122,25 +148,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.HW_03_UniqueElements_cssSelector" />
-      <option name="METHOD_NAME" value="uniqueElement" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW_04_UniqueElements_xpath" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_FirstSeleniumProject.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.HW_04_UniqueElements_xpath" />
+      <option name="MAIN_CLASS_NAME" value="hw.DeleteItemFromCart" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -148,7 +156,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_04_UniqueElements_xpath.findElementByXpath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeleteItemFromCart.deletePositiveTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
@@ -157,8 +165,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.HW_04_UniqueElements_xpath" />
-      <option name="METHOD_NAME" value="findElementByXpath" />
+      <option name="MAIN_CLASS_NAME" value="hw.DeleteItemFromCart" />
+      <option name="METHOD_NAME" value="deletePositiveTests" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -168,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CreateAccountTest.createNewAccountPositiveTest" />
-        <item itemvalue="TestNG.HW_04_UniqueElements_xpath" />
-        <item itemvalue="TestNG.HW_04_UniqueElements_xpath.findElementByXpath" />
-        <item itemvalue="TestNG.HW_03_UniqueElements_cssSelector.uniqueElement" />
-        <item itemvalue="TestNG.HW_03_UniqueElements_cssSelector" />
+        <item itemvalue="TestNG.DeleteItemFromCart" />
+        <item itemvalue="TestNG.AddItemToCart" />
+        <item itemvalue="TestNG.CreateAccountTest" />
+        <item itemvalue="TestNG.AddItemToCart.addItemToCart" />
+        <item itemvalue="TestNG.DeleteItemFromCart.deletePositiveTests" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +207,12 @@
       <workItem from="1712072309461" duration="1387000" />
       <workItem from="1712134275409" duration="4284000" />
       <workItem from="1712143720436" duration="11564000" />
-      <workItem from="1712246616513" duration="8834000" />
+      <workItem from="1712246616513" duration="9292000" />
+      <workItem from="1712257278131" duration="15000" />
+      <workItem from="1712561760358" duration="70000" />
+      <workItem from="1712583172984" duration="4601000" />
+      <workItem from="1712594922842" duration="12075000" />
+      <workItem from="1712607561441" duration="4698000" />
     </task>
     <task id="LOCAL-00001" summary="Three elements by Tag name">
       <option name="closed" value="true" />

@@ -15,6 +15,7 @@ public class UniqueElements_cssSelector {
         driver.get("https://demowebshop.tricentis.com/");
         driver.manage().window().maximize();
     }
+
     @Test
     public void uniqueElement(){
         driver.findElement(By.cssSelector("[name='description']"));

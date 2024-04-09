@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97baedc8-bd0d-4c4d-b920-112c82d89110" name="Changes" comment="Three elements by Tag name">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demowebshop/qa34/TableTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/AddItemToCartTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CreateNewAccountTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/DeleteItemFromCartTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/QA_FirstSeleniumProject.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/QA_FirstSeleniumProject.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw/CreateAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/CreateAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw/UniqueElements_cssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/UniqueElements_cssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/ait/qa34/FindElementsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/ait/qa34/FirstSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/ait/qa34/TableTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/ait/qa34/TableTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/AddItemToCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/AddItemToCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/CreateAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/CreateAccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/DeleteItemFromCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/DeleteItemFromCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/FindElementByTagName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/FindElementByTagName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/UniqueElements_cssSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/UniqueElements_cssSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/UniqueElements_xpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/UniqueElements_xpath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ait/qa34/TableTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/AddItemToCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/CreateAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/DeleteItemFromCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/FindElementByTagName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/UniqueElements_cssSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw/UniqueElements_xpath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +70,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.AddItemToCart.addItemToCart.executor": "Run",
     "TestNG.AddItemToCart.executor": "Run",
+    "TestNG.AddItemToCartTests.addItemToCart.executor": "Run",
+    "TestNG.AddItemToCartTests.executor": "Run",
     "TestNG.CreateAccountTest.createNewAccountPositiveTest.executor": "Run",
     "TestNG.CreateAccountTest.executor": "Run",
+    "TestNG.CreateNewAccountTests.createNewAccount.executor": "Run",
+    "TestNG.CreateNewAccountTests.createNewAccountPositiveTest.executor": "Run",
     "TestNG.DeleteItemFromCart.deletePositiveTests.executor": "Run",
     "TestNG.DeleteItemFromCart.executor": "Run",
+    "TestNG.DeleteItemFromCartTests.deleteTests.executor": "Run",
+    "TestNG.DeleteItemFromCartTests.executor": "Run",
     "TestNG.FindElementsTests.elementByXpath.executor": "Run",
     "TestNG.FindElementsTests.executor": "Run",
     "TestNG.FindElementsTests.findElementByCssSelector.executor": "Run",
@@ -67,36 +96,50 @@
     "TestNG.HW_03_uniqueElements.uniqueElement.executor": "Run",
     "TestNG.HW_04_UniqueElements_xpath.executor": "Run",
     "TestNG.HW_04_UniqueElements_xpath.findElementByXpath.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.loginNegativeTest.executor": "Run",
+    "TestNG.LoginTests.loginPositiveTest.executor": "Run",
     "TestNG.TableTests.tableCssTest.executor": "Run",
     "TestNG.Unique.executor": "Run",
     "TestNG.UniqueElements_cssSelector.executor": "Run",
+    "TestNG.hw.executor": "Run",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/olesiavoprykova/QA/QA_FirstSeleniumProject",
+    "last_opened_file_path": "/Users/olesiavoprykova/QA/QA_FirstSeleniumProject/src/main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/olesiavoprykova/QA/QA_FirstSeleniumProject/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.DeleteItemFromCart">
-    <configuration name="AddItemToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hw" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TableTests.tableCssTest">
+    <configuration name="AddItemToCartTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="java.com.demowebshop.models.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.AddItemToCart" />
+      <option name="MAIN_CLASS_NAME" value="tests.AddItemToCartTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -104,16 +147,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddItemToCart.addItemToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AddItemToCartTests.addItemToCart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="java.com.demowebshop.models.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.AddItemToCart" />
+      <option name="MAIN_CLASS_NAME" value="tests.AddItemToCartTests" />
       <option name="METHOD_NAME" value="addItemToCart" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -122,16 +165,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateAccountTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_FirstSeleniumProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="java.com.demowebshop.models.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.CreateAccountTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -139,35 +182,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteItemFromCart" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_FirstSeleniumProject.test" />
+    <configuration name="TableTests.tableCssTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="java.com.demowebshop.qa34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.DeleteItemFromCart" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeleteItemFromCart.deletePositiveTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_FirstSeleniumProject.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.DeleteItemFromCart" />
-      <option name="METHOD_NAME" value="deletePositiveTests" />
+      <option name="PACKAGE_NAME" value="java.com.demowebshop.qa34" />
+      <option name="MAIN_CLASS_NAME" value="java.com.demowebshop.qa34.TableTests" />
+      <option name="METHOD_NAME" value="tableCssTest" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_FirstSeleniumProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -176,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DeleteItemFromCart" />
-        <item itemvalue="TestNG.AddItemToCart" />
-        <item itemvalue="TestNG.CreateAccountTest" />
-        <item itemvalue="TestNG.AddItemToCart.addItemToCart" />
-        <item itemvalue="TestNG.DeleteItemFromCart.deletePositiveTests" />
+        <item itemvalue="TestNG.TableTests.tableCssTest" />
+        <item itemvalue="TestNG.tests" />
+        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="TestNG.AddItemToCartTests" />
+        <item itemvalue="TestNG.AddItemToCartTests.addItemToCart" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +254,11 @@
       <workItem from="1712561760358" duration="70000" />
       <workItem from="1712583172984" duration="4601000" />
       <workItem from="1712594922842" duration="12075000" />
-      <workItem from="1712607561441" duration="4698000" />
+      <workItem from="1712607561441" duration="5630000" />
+      <workItem from="1712648089567" duration="510000" />
+      <workItem from="1712649389936" duration="542000" />
+      <workItem from="1712652092885" duration="682000" />
+      <workItem from="1712661115167" duration="18209000" />
     </task>
     <task id="LOCAL-00001" summary="Three elements by Tag name">
       <option name="closed" value="true" />

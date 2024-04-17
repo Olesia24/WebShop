@@ -1,9 +1,12 @@
 package com.demowebshop.data;
 
+import com.demowebshop.models.User;
+
 import java.util.Random;
 
 public class UserData {
-
+    public static final String NAME = "Anna";
+    public static final String SURNAME = "Müller";
     public static final String EMAIL = "olesia123@yahoo.com";
     public static final String PASSWORD = "Olesia$2024";
     public static final String CREATE_EMAIL = createEmail();

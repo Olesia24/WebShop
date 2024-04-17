@@ -5,75 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7ca13f8-4c5b-44fc-95c4-71d70faf0a44" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_82.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_auto_service_auto_service_annotations_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_26_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_33_1_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__dev_failsafe_failsafe_3_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_api_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_api_events_1_36_0_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_context_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_exporter_logging_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_extension_incubator_1_36_0_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_sdk_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_sdk_common_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_sdk_logs_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_sdk_metrics_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_opentelemetry_sdk_trace_1_36_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_opentelemetry_semconv_opentelemetry_semconv_1_23_1_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_14_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_qual_3_42_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chromium_driver_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_devtools_v121_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_devtools_v122_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_devtools_v123_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_devtools_v85_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_http_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_json_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_manager_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_os_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_4_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_7_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_jquery_3_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/QA_FirstSeleniumProject.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/QA_FirstSeleniumProject.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/QA_FirstSeleniumProject.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QA_FirstSeleniumProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/ait/qa34/TableTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/ait/qa34/TableTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/hw/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/hw/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/demowebshop/qa34/ait/TableTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demowebshop/fw/ApplicationManager.java" afterDir="false" />
@@ -104,7 +36,17 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="QA_FirstSeleniumProject" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -141,6 +83,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/olesiavoprykova/QA/QA_FirstSeleniumProject&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -152,6 +95,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
   <component name="RunManager" selected="Gradle.LoginTests.loginPositiveTest">
     <configuration name="CreateNewAccountTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -294,6 +242,8 @@
       <workItem from="1712749768323" duration="2108000" />
       <workItem from="1713117438330" duration="9719000" />
       <workItem from="1713184738585" duration="711000" />
+      <workItem from="1713188511556" duration="758000" />
+      <workItem from="1713356070521" duration="5536000" />
     </task>
     <servers />
   </component>

@@ -1,11 +1,8 @@
 package com.demowebshop.fw;
 
-import com.demowebshop.models.NewUserAccount;
 import com.demowebshop.models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
-import java.util.Random;
 
 public class UserHelper extends BaseHelper {
     public UserHelper(WebDriver driver) {
@@ -16,15 +13,17 @@ public class UserHelper extends BaseHelper {
         click(By.id("register-button"));
     }
 
-    public void fillNameAndLastname() {
-        type(By.id("FirstName"), "Oly");
-        type(By.id("LastName"), "Mayer");
+    public void fillRegisterForm(User newUser) {
+        type(By.id("FirstName"), newUser.getFirstName() );
+        type(By.id("LastName"), newUser.getLastName());
+        type(By.id("Email"), newUser.getEmail());
+        type(By.id("Password"), newUser.getPassword());
+        type(By.id("ConfirmPassword"), newUser.getConfirmPassword());
     }
 
     public void fillLoginAndPassword(User user) {
         type(By.id("Email"), user.getEmail());
         type(By.id("Password"), user.getPassword());
-
     }
 
     public void clickOnRegisterLink() {
@@ -37,14 +36,6 @@ public class UserHelper extends BaseHelper {
 
     public void clickOnLoginLink() {
         click(By.cssSelector("[href='/login']"));
-    }
-
-    public void createLoginAndPasswordNewCustomer(NewUserAccount newUserAccount) {
-        Random random = new Random();
-        int i = random.nextInt(1000)+1000;
-        type(By.id("Email"), "olesia" + i + "@yahoo.com");
-        type(By.id("Password"), "Olesia$12345");
-        type(By.id("ConfirmPassword"), "Olesia$12345" );
     }
 
     public void clickOnLogOutButton() {

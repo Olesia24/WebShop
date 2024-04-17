@@ -34,15 +34,4 @@ public class AddItemToCartTests extends TestBase{
         app.getItem().clickOnButtonShopingCart();
         Assert.assertTrue(app.getItem().isElementPresent(By.cssSelector("[href='/141-inch-laptop']")));
     }
-    @AfterMethod
-    public void postCondition(){
-        app.getItem().removeItem();
-    }
-
-    @DataProvider
-    public Iterator<Object[]> addNewUser(){
-        List<Object[]> list = new ArrayList<>();
-        list.add(new Object[]{"Olga", "LastName", "olga1234@gmail.com", "Qwertz1234", "Qwertz1234"})
-    }
-
 }
